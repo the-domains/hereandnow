@@ -1,7 +1,7 @@
 name: hereandnow
 favicon: null
-layout_spectrum: 0.8601510638836771
-typography_spectrum: 0.3688796916976571
+layout_spectrum: 1
+typography_spectrum: 0.34541
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5276364146266133
-  lightness: 0.5528484671376646
-  saturation: 0.21412012516520917
-  rhythmicContrast: 0.6104544303379953
+    - '#000000'
+    - '#5a5551'
+    - '#877f7c'
+    - '#b2adaa'
+    - '#ded4d2'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
